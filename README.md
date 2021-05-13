@@ -2,7 +2,7 @@
 
 
 
-> I am a college student who is interested in implementing the web in front of me and is trying to become a front-end developer.
+> I am a college student who is interested in implementing the web and tries to become a front-end developer.
 > I strive to become a better developer who adapts to rapidly changing trends and evolving technologies.
 > I am a developer with passion and perseverance. If you have any questions about me, please contact me at the address above!
 
