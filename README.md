@@ -14,4 +14,4 @@
 
 🏫 : [Kumoh National Institute of Technology](https://www.kumoh.ac.kr/ko/index.do)
 
-🧑 : 
+🧑 : [Portfolio](https://gunwoongpark.github.io/portfolio/)
