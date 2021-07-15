@@ -10,7 +10,7 @@
 
 📞 : +82 10-5217-5646
 
-📩 : olympiodoros@naver.com
+📩 : bung1438@gmail.com
 
 🏫 : [Kumoh National Institute of Technology](https://www.kumoh.ac.kr/ko/index.do)
 
