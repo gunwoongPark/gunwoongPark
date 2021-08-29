@@ -11,4 +11,6 @@
 
 🏫 : [Kumoh National Institute of Technology](https://www.kumoh.ac.kr/ko/index.do)
 
+🏢 : [LOGI BROTHERS](https://thewaytosunset.notion.site/thewaytosunset/We-Are-LOGI-BROTHERS-29fd0a77d6ef4e65ba66af7865ed6ce2)
+
 🧑 : [Portfolio](https://gunwoongpark.github.io/portfolio/)
