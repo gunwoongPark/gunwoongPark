@@ -17,8 +17,10 @@
 🧑 : [Portfolio](https://gunwoongpark.github.io/portfolio/)
 
 <div align=center>
- ### DEV STACK
+ DEV STACK
 </div>
+
+***
 
 <div align=center>
  
