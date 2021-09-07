@@ -38,6 +38,7 @@
  ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
  
  [![gunwoongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoongPark&show_icons=true&theme=react)](https://github.com/gunwoongPark)
+ <br/>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunwoongPark&theme=react)](https://github.com/gunwoongPark/github-readme-stats)
  
 </div>
