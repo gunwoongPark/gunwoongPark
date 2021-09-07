@@ -1,9 +1,8 @@
 ### Front-End Developer
 
-> I am interested in web implementation and try to be a competent front-end developer. 
-> I try to be a better developer who adapts to rapidly changing trends and evolving technologies.
-> A developer with passion and tenacity.
-> If you have any questions about me, please contact me at the address above!
+> 눈앞에 보이는 웹을 구현하는 것에 흥미를 느껴 유능한 프론트 엔드 개발자가 되기 위해 노력합니다.
+> 빠르게 변화하는 트렌드와 발전하는 기술에 적응하는 더 좋은 개발자가 되기 위해 노력하고 있습니다.
+> 열정과 끈기가 있는 개발자입니다. 저에 대해 궁금하신 점이 있다면, 연락해주세요!
 
 📞 : +82 10-5217-5646
 
