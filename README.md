@@ -1,4 +1,4 @@
-### Front-End Developer
+## Front-End Developer
 
 눈앞에 보이는 웹을 구현하는 것에 흥미를 느껴 유능한 프론트 엔드 개발자가 되기 위해 노력합니다.
 
