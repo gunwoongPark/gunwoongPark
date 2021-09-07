@@ -40,3 +40,11 @@
  ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
  
 </div>
+
+***
+
+<div align=center>
+ 
+ [![gunwoongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoongPark)](https://github.com/gunwoongPark/github-readme-stats)
+ 
+</div>
