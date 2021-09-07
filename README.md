@@ -19,9 +19,9 @@
 <br/>
 
 <div align=center>
- <h2>
+ <h3>
   DEV STACK
- </h2>
+ </h3>
 </div>
 
 ***
