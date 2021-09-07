@@ -6,6 +6,16 @@
 
 열정과 끈기가 있는 개발자입니다. 저에 대해 궁금하신 점이 있다면, 연락해주세요!
 
+📞 : +82 10-5217-5646
+
+📩 : bung1438@gmail.com
+
+🎓 : [Kumoh National Institute of Technology](https://www.kumoh.ac.kr/ko/index.do)
+
+🏢 : [LOGI BROTHERS](https://thewaytosunset.notion.site/thewaytosunset/We-Are-LOGI-BROTHERS-29fd0a77d6ef4e65ba66af7865ed6ce2)
+
+🧑 : [Portfolio](https://gunwoongpark.github.io/portfolio/)
+
 <div align=center>
  
  ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
@@ -20,13 +30,3 @@
  ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
  
 </div>
- 
-📞 : +82 10-5217-5646
-
-📩 : bung1438@gmail.com
-
-🎓 : [Kumoh National Institute of Technology](https://www.kumoh.ac.kr/ko/index.do)
-
-🏢 : [LOGI BROTHERS](https://thewaytosunset.notion.site/thewaytosunset/We-Are-LOGI-BROTHERS-29fd0a77d6ef4e65ba66af7865ed6ce2)
-
-🧑 : [Portfolio](https://gunwoongpark.github.io/portfolio/)
