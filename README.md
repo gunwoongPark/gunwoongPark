@@ -19,7 +19,9 @@
 <br/>
 
 <div align=center>
- DEV STACK
+ <h2>
+  DEV STACK
+ </h2>
 </div>
 
 ***
