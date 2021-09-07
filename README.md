@@ -1,6 +1,6 @@
-## Front-End Developer
+# Front-End Developer
 
-### Hello
+## Hello
 
 눈앞에 보이는 웹을 구현하는 것에 흥미를 느껴 유능한 프론트 엔드 개발자가 되기 위해 노력합니다.
 
@@ -8,7 +8,9 @@
 
 열정과 끈기가 있는 개발자입니다. 저에 대해 궁금하신 점이 있다면, 연락해주세요!
 
-### Contact
+<br/>
+
+## Contact
 
 📞 : +82 10-5217-5646
 
@@ -20,7 +22,9 @@
 
 🧑 : [Portfolio](https://gunwoongpark.github.io/portfolio/)
 
-### Dev Stack
+<br/>
+
+## Dev Stack
 
 <div align=center>
  
