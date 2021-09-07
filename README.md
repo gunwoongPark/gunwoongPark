@@ -17,8 +17,10 @@
 🧑 : [Portfolio](https://gunwoongpark.github.io/portfolio/)
 
 <div align=center>
- Dev Stack
- ***
+ ### DEV STACK
+</div>
+
+<div align=center>
  
  ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
  ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
