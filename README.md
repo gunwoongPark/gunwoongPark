@@ -37,6 +37,6 @@
  ![Vuetify Badge](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
  ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
  
- [![gunwoongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoongPark&show_icons=true&theme=radical)](https://github.com/gunwoongPark)
+ [![gunwoongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoongPark&show_icons=true&theme=react)](https://github.com/gunwoongPark)
  
 </div>
