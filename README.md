@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend Developer&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
 
 안녕하세요! 2년 차 프론트엔드 개발자 박건웅입니다.
 
