@@ -26,7 +26,7 @@
 
 <br/>
 
-## Dev Stack
+## Skills
 
 <div align=center>
  
