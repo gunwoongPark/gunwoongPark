@@ -1,10 +1,14 @@
 ## Front-End Developer
 
-눈앞에 보이는 웹을 구현하는 것에 흥미를 느껴 유능한 프론트 엔드 개발자가 되기 위해 쉬지 않고 배우고 있습니다.
+안녕하세요! 2년 차 프론트엔드 개발자 박건웅입니다.
 
-빠르게 변화하는 트렌드와 발전하는 기술에 적응하는 더 좋은 개발자가 되기 위해 항상 노력하고 있습니다.
+유능한 개발자가 되기 위해 즐겁게 그리고 열심히 달리며 나만의 스키드마크를 남기고 있습니다.
 
-열정과 끈기가 있는 개발자입니다. 저에 대해 궁금하신 점이 있다면, 연락해주세요!
+개발자의 입장에서는 사용자의 관점에서 불편한 점이 없도록 더 나은 방안을 찾아 개선하고자 하며
+
+스스로 코드에 항상 의구심을 가지고 더 나은 방안을 찾아갑니다.
+
+무엇보다 Maker가 아닌 Solver, Coder가 아닌 Programmer가 되기 위해 노력하고 있습니다.
 
 <br/>
 
@@ -18,7 +22,7 @@
 
 🏢 : [PREF](http://www.prefinc.com/main/index)
 
-🧑 : [Portfolio](https://gunwoongpark.github.io/portfolio/)
+🧑 : [Portfolio(공사중)](https://gunwoongpark.github.io/portfolio/)
 
 <br/>
 
@@ -40,9 +44,10 @@
  ![styled-components Badge](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
  ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
  
- 🎸 etc
+ 🎸 Collaboration
  
  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+ ![Asana Badge](https://img.shields.io/badge/Asana-#273347?style=flat-square&logo=Asana&logoColor=white)
  
  [![gunwoongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoongPark&show_icons=true&theme=react)](https://github.com/gunwoongPark)
  
