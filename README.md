@@ -1,4 +1,4 @@
-## Frontend Developer
+## 🧑🏻‍💻 Frontend Developer
 
 안녕하세요! 2년 차 프론트엔드 개발자 박건웅입니다.
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-## Contact
+## 📎 Contact
 
 📞 : +82 10-5217-5646
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-## Skills
+## 🛠 Skills
 
 <div align=center>
  
