@@ -47,6 +47,7 @@
  🎸 Collaboration
  
  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+ ![Sourcetree Badge](https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white)
  ![Asana Badge](https://img.shields.io/badge/Asana-273347?style=flat-square&logo=Asana&logoColor=white)
  ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
  ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
