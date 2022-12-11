@@ -1,4 +1,4 @@
-## Front-End Developer
+## Frontend Developer
 
 안녕하세요! 2년 차 프론트엔드 개발자 박건웅입니다.
 
@@ -47,7 +47,7 @@
  🎸 Collaboration
  
  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
- ![Asana Badge](https://img.shields.io/badge/Asana-#273347?style=flat-square&logo=Asana&logoColor=white)
+ ![Asana Badge](https://img.shields.io/badge/Asana-273347?style=flat-square&logo=Asana&logoColor=white)
  
  [![gunwoongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoongPark&show_icons=true&theme=react)](https://github.com/gunwoongPark)
  
