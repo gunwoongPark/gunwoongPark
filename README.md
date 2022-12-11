@@ -48,6 +48,7 @@
  
  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
  ![Asana Badge](https://img.shields.io/badge/Asana-273347?style=flat-square&logo=Asana&logoColor=white)
+ ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Asana&logoColor=black)
  
  [![gunwoongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoongPark&show_icons=true&theme=react)](https://github.com/gunwoongPark)
  
