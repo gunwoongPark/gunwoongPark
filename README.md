@@ -22,8 +22,6 @@
 
 🏢 : [PREF](http://www.prefinc.com/main/index)
 
-🧑 : [Portfolio(공사중)](https://gunwoongpark.github.io/portfolio/)
-
 <br/>
 
 ## 🛠 Skills
