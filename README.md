@@ -20,8 +20,6 @@
 
 🎓 : [Kumoh National Institute of Technology](https://www.kumoh.ac.kr/ko/index.do)
 
-🏢 : [PREF](http://www.prefinc.com/main/index)
-
 <br/>
 
 ## 🛠 Skills
